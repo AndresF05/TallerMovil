@@ -31,7 +31,7 @@ export default function App() {
 /*
 // Ejercicio 2: Detalles de Usuario
 export default function App() {
-  const nombre ="Beto";
+  const nombre ="Andrés";
   const edad = "20";
   const ocupacion = "Development";
   return (
